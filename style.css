@@ -237,7 +237,7 @@ font-size: medium;
 /* IPhone and Smart Phones Resposive */
 @media (max-width: 768px){
     body{
-        color: blue;
+        color: red;
     }
 
     #content button{
@@ -263,7 +263,7 @@ margin-right: auto;
 /*IPad and Tablets Responsive */
 @media (min-width: 769px) and (max-width: 1023px){
     body{
-        color:red
+        color:blue
     }
     .nav-container{
         margin-left: auto;
